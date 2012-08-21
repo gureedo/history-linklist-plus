@@ -1,4 +1,5 @@
-history-linklist-plus
+History LlinkList Plus
 =====================
 
-History Linklist Plus MIranda IM Plugin
+Miranda IM plugin for grabbing links from contact history.
+Based on Thomas Wendel code.
